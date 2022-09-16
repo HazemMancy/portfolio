@@ -100,8 +100,6 @@ img {
 }
 .nav-title a {
   height: 50px;
-  overflow: hidden;
-  white-space: nowrap;
 }
 .header-nav .nav-links {
   float: right;
